@@ -1,0 +1,10 @@
+Team	Mercedes
+Country	Finland
+Podiums	35
+Points	1068
+Grands Prix entered	124
+World Championships	N/A
+Highest race finish	1 (x5)
+Highest grid position	1
+Date of birth	28/08/1989
+Place of birth	Nastola, Finland

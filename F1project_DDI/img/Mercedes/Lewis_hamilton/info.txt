@@ -1,0 +1,10 @@
+Team	Mercedes
+Country	United Kingdom
+Podiums	139
+Points	3130
+Grands Prix entered	234
+World Championships	5
+Highest race finish	1 (x76)
+Highest grid position	1
+Date of birth	07/01/1985
+Place of birth	Stevenage, England
